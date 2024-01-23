@@ -8,6 +8,7 @@
 ## High-Quality Code
 
 1. [Design In Construction](./docs/high-quality-code/design.md)
+
 2. [Refactoring](./docs/refactoring.md).
 3. [Testing](./docs/testing.md).
 4. [Debugging](./docs/debugging.md).

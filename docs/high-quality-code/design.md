@@ -65,4 +65,9 @@
 
 - _обсяг_ - число з'єднань між модулями (менше - краще);
 - _видимість_ - помітність зв'язку між двома модулями;
-- _гнучкість_ - легкість зміни зв'язку між модулями.
+- _гнучкість_ - легкість зміни зв'язку між модулями. [`Приклади`](../../examples/high-quality-code/coupling/flexibility/)
+
+#### Приклади типів зчеплення (сoupling)
+
+- [`Погано`](../../examples/high-quality-code/coupling/coupling-types/bad/);
+- [`Добре`](../../examples/high-quality-code/coupling/coupling-types/good/).
